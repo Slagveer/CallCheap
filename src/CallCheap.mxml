@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:ViewNavigatorApplication xmlns:fx="http://ns.adobe.com/mxml/2009" 
+							xmlns:s="library://ns.adobe.com/flex/spark" firstView="views.CallCheapHomeView">
+	<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+	</fx:Declarations>
+	
+	<fx:Style> 
+		@namespace s "library://ns.adobe.com/flex/spark"; 
+		s|ActionBar { 
+			chromeColor: #05A8DE; 
+			color: #FFFFFF;
+		}
+		
+		s|View
+		{
+			backgroundColor: #ff0000;
+			chromeColor: #1E2427;
+			contentBackgroundColor: #1E2427;
+			alternatingItemColors: #1E2427;
+		}
+		global
+		{
+			color: white;
+		}
+		
+	</fx:Style>
+	
+	<s:navigationContent>
+		<s:Label text="CallCheap"/>
+		<s:Button icon="@Embed('assets/icons/info_icon.png')" click="navigator.popToFirstView()"/>
+		<s:Button icon="@Embed('assets/icons/mobile_icon.png')" click="navigator.popToFirstView()"/>
+		<s:Button icon="@Embed('assets/icons/search_icon.png')" click="navigator.popToFirstView()"/>
+	 </s:navigationContent>
+</s:ViewNavigatorApplication>

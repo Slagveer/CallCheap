@@ -1,0 +1,2495 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+	<Bedrijf>
+		<id>1</id>
+		<naam>12movee</naam>
+		<duur>0900  040498</duur>
+		<goedkoop> 030  -2483500</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>2</id>
+		<naam>1800 nummerinformatie Vodafone  </naam>
+		<duur>1800</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>3</id>
+		<naam>1888 nummerinformatie  KPN  </naam>
+		<duur>1888</duur>
+		<goedkoop>1820</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>4</id>
+		<naam>Abel  Telecom</naam>
+		<duur> 0900  2352235 </duur>
+		<goedkoop> 0513 -68 21  09</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>5</id>
+		<naam>ABN  Amro</naam>
+		<duur> 0900 0024 </duur>
+		<goedkoop>  010 -241 1720</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>6</id>
+		<naam>ABN-AMRO  Creditcardsaldo</naam>
+		<duur> 0900  8016 </duur>
+		<goedkoop> 010  -2411720</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>7</id>
+		<naam>Abonnementenland  </naam>
+		<duur>0900 22 65 263 </duur>
+		<goedkoop>  0251 -257924</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>8</id>
+		<naam>ABP</naam>
+		<duur></duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>9</id>
+		<naam>Abvakabo FNV  </naam>
+		<duur>0900 22 82 522 </duur>
+		<goedkoop> 079  -3536161</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>10</id>
+		<naam>Acantus  </naam>
+		<duur>0900 8400 </duur>
+		<goedkoop> 0598  -664487</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>11</id>
+		<naam>Achmea Taxi  Zeevang</naam>
+		<duur> 0900  8294224 </duur>
+		<goedkoop> 0299  -469479</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>12</id>
+		<naam>ADSLwinkel.nl   </naam>
+		<duur>0900  237 54636 </duur>
+		<goedkoop> 030 -280  2867</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>13</id>
+		<naam>AEGON </naam>
+		<duur>088 344 0344  </duur>
+		<goedkoop>030 -6074411</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>14</id>
+		<naam>AEP  (Atag &amp; Etna &amp; Pelgrim) </naam>
+		<duur>0900 5550003 </duur>
+		<goedkoop> 026  -8821400</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>15</id>
+		<naam>Aevitae </naam>
+		<duur>0900 369  33 33 </duur>
+		<goedkoop> 045 -573 96  00</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>16</id>
+		<naam>Aflevertijd.nl   </naam>
+		<duur>0900  267 56 44 </duur>
+		<goedkoop> 030 -2416601</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>17</id>
+		<naam>Agentschap Telecom </naam>
+		<duur>0900 8991151 </duur>
+		<goedkoop> 050  -5877555</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>18</id>
+		<naam>Agis  klantenservice </naam>
+		<duur>0900 8685</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>19</id>
+		<naam>Agis Wachtlijstbemiddeling </naam>
+		<duur>0900 266 94 63 </duur>
+		<goedkoop>033  -3304090</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>20</id>
+		<naam>Ahoy Rotterdam  </naam>
+		<duur>0900 2352469 </duur>
+		<goedkoop> 010  -2933528</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>21</id>
+		<naam>Airmiles  Klantenservice </naam>
+		<duur>0900 8877 </duur>
+		<goedkoop> 023  -5699700</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>22</id>
+		<naam>Aldi  Supermarkten</naam>
+		<duur></duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>23</id>
+		<naam>Alice (via  BBNed)</naam>
+		<duur> 0900 1560 </duur>
+		<goedkoop> 023 -565  9999</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>24</id>
+		<naam>Anderzorg</naam>
+		<duur> 0900  1616160 </duur>
+		<goedkoop> 050 -5234951</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>25</id>
+		<naam>Apple Support</naam>
+		<duur> 0900 7777 703 </duur>
+		<goedkoop> 001 800 275  2273</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>26</id>
+		<naam>Area Reiniging</naam>
+		<duur> 0900  2345555 </duur>
+		<goedkoop> 0591- 571080</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>27</id>
+		<naam>Arke</naam>
+		<duur> 0900  8847 </duur>
+		<goedkoop> 053- 4880870</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>28</id>
+		<naam>Arriva</naam>
+		<duur> 0900 202 202 2 </duur>
+		<goedkoop> 0513-  655855</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>29</id>
+		<naam>Astma Fonds</naam>
+		<duur> 0900  2272596 </duur>
+		<goedkoop> 033- 4341295</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>30</id>
+		<naam>Austrian Airlines</naam>
+		<duur> 0900 265 8920 </duur>
+		<goedkoop> 0032- 2- 642 25  70</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>31</id>
+		<naam>Aveant</naam>
+		<duur> 0900 2 111 222 </duur>
+		<goedkoop>  030- 2632500</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>32</id>
+		<naam>Avero Achmea </naam>
+		<duur> 0900 9590 </duur>
+		<goedkoop> 058- 2979797</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>33</id>
+		<naam>Avro</naam>
+		<duur> 0900 9009030 </duur>
+		<goedkoop> 035- 672 68  50</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>34</id>
+		<naam>Bart Smit</naam>
+		<duur> 0900 0599 </duur>
+		<goedkoop>  0299- 399 599</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>35</id>
+		<naam>BCC</naam>
+		<duur> 0900  0555 </duur>
+		<goedkoop> 020- 6584437</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>36</id>
+		<naam>Beekse  Bergen </naam>
+		<duur>0900 233 5732 </duur>
+		<goedkoop> 013  5491200</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>37</id>
+		<naam>Belcompany </naam>
+		<duur>0900  8081 </duur>
+		<goedkoop>0318- 569 852</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>38</id>
+		<naam>BenQ  </naam>
+		<duur>0900 2021 021 </duur>
+		<goedkoop> 0032 2 645  3284</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>39</id>
+		<naam>BenQ </naam>
+		<duur>0900 2367 669 </duur>
+		<goedkoop>  0032 2 645 3252</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>40</id>
+		<naam>Bijenkorf  </naam>
+		<duur>0900 0919 </duur>
+		<goedkoop> 020 6600 788</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>41</id>
+		<naam> BKR </naam>
+		<duur>0900 2578435 </duur>
+		<goedkoop> 0344  616041</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>42</id>
+		<naam>Bol.com BV  </naam>
+		<duur>0900-2025438 </duur>
+		<goedkoop> 030  6008872</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>43</id>
+		<naam>BookIt </naam>
+		<duur>0900 8079  </duur>
+		<goedkoop> 020- 4564052</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>44</id>
+		<naam>Bosch </naam>
+		<duur>0900  430 1234 </duur>
+		<goedkoop> 020- 430 3434</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>45</id>
+		<naam> Breman Service </naam>
+		<duur>0900 82 12 174 </duur>
+		<goedkoop>  0320-285800</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>46</id>
+		<naam>Brussels  Airlines </naam>
+		<duur>0900 04 00 810 </duur>
+		<goedkoop> 0032- 2- 723 23  23</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>47</id>
+		<naam>Brussels Airlines </naam>
+		<duur>0902  51 600 </duur>
+		<goedkoop> 02- 723 23 23</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>48</id>
+		<naam> Budget Keukenwinkel </naam>
+		<duur>0900 44 66 888 </duur>
+		<goedkoop> 055- 5 401  411</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>49</id>
+		<naam>Budgetbeheer Limburg  B.V</naam>
+		<duur>0900 11 555 11 </duur>
+		<goedkoop>043-  3210190</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>50</id>
+		<naam>Bungalows.nl  </naam>
+		<duur>0900  8079 </duur>
+		<goedkoop> 020- 4564052</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>51</id>
+		<naam>Canal  Digitaal </naam>
+		<duur>0900 9325 </duur>
+		<goedkoop> 035-  6555666</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>52</id>
+		<naam>Canal Digitaal  </naam>
+		<duur>0900 9323 </duur>
+		<goedkoop> 035- 6555666</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>53</id>
+		<naam> Canon </naam>
+		<duur>0900 20 22 915 </duur>
+		<goedkoop> 023-  5681682</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>54</id>
+		<naam>Caplare </naam>
+		<duur>0900  2275273 </duur>
+		<goedkoop> 070-  3002170</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>55</id>
+		<naam>Cardelmar.com </naam>
+		<duur>0900  22 444 66 </duur>
+		<goedkoop> 0049- 40- 55403  192</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>56</id>
+		<naam>Caribbean.nl  </naam>
+		<duur>0900  9747 </duur>
+		<goedkoop> 070- 3129595</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>57</id>
+		<naam>Carre  (Koninklijk Theater Carre) </naam>
+		<duur>0900 25 25 255 </duur>
+		<goedkoop> 020-  5249 494</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>58</id>
+		<naam>Casema </naam>
+		<duur>0900 8896  </duur>
+		<goedkoop> 070- 7783000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>59</id>
+		<naam>Caz!  </naam>
+		<duur>0909 8020 </duur>
+		<goedkoop> 020- 4194904</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>60</id>
+		<naam> Caz! </naam>
+		<duur>0909 8020 </duur>
+		<goedkoop> 020-  4194904</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>61</id>
+		<naam>CBR </naam>
+		<duur>0900 227 0  227 </duur>
+		<goedkoop> 070- 3720500</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>62</id>
+		<naam>CCC  hosting </naam>
+		<duur>0900 2224678 </duur>
+		<goedkoop> 010-  7851552</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>63</id>
+		<naam>CDDG (Dokters  Dienst Groningen)</naam>
+		<duur>0900 660 660 </duur>
+		<goedkoop>  0800-0311</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>64</id>
+		<naam>CheapTickets.nl </naam>
+		<duur> 0900  4564560 </duur>
+		<goedkoop> 0162- 485070</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>65</id>
+		<naam> Chippieland</naam>
+		<duur> 0900 2447743 </duur>
+		<goedkoop> 0348-  500374</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>66</id>
+		<naam>Circulus Apeldoorn </naam>
+		<duur> 0900 9552 </duur>
+		<goedkoop> 055- 5999  777</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>67</id>
+		<naam>CityTripper.nl </naam>
+		<duur> 0900  8079 </duur>
+		<goedkoop> 020- 4564052</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>68</id>
+		<naam>Comfort Card</naam>
+		<duur> 0900 22 55 422 </duur>
+		<goedkoop> 030-  6388100</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>69</id>
+		<naam>Complus.nl </naam>
+		<duur> 0900  2667587 </duur>
+		<goedkoop> 053- 4 800 500</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>70</id>
+		<naam> Compuserve</naam>
+		<duur> 0900 2025425 </duur>
+		<goedkoop> 0800-  0221911</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>71</id>
+		<naam>Computer  Associates </naam>
+		<duur>0900 202 1383 </duur>
+		<goedkoop> 001- 63- 1342  4683</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>72</id>
+		<naam>Connexxion</naam>
+		<duur> 0900 2666  399 </duur>
+		<goedkoop> 035- 6251600</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>73</id>
+		<naam>Conrad  Electronics </naam>
+		<duur>0900 0996 </duur>
+		<goedkoop> 053-  4285490</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>74</id>
+		<naam>Continuon </naam>
+		<duur>0900  2632630 </duur>
+		<goedkoop> 026- 8442445</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>75</id>
+		<naam> Credit Europe Bank</naam>
+		<duur> 0900 4711 000 </duur>
+		<goedkoop> 020-  3576363</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>76</id>
+		<naam>CZ  Zorgverzekeringen </naam>
+		<duur>0900 0949 </duur>
+		<goedkoop> 013-  5949949</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>77</id>
+		<naam>D-Reizen</naam>
+		<duur> 0900 1811  </duur>
+		<goedkoop> 010- 3001113</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>78</id>
+		<naam>Dagblad van  het Noorden (DVHN)</naam>
+		<duur> 0900 8183 </duur>
+		<goedkoop> 050- 584 44  44</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>79</id>
+		<naam>De Gezondheidsdienst  voor Dieren (GD) </naam>
+		<duur>0900 1770 </duur>
+		<goedkoop> 0570-  633391</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>80</id>
+		<naam>De Scheg (Sport- en  Recreatiecentrum) </naam>
+		<duur>0900 6597777 </duur>
+		<goedkoop> 0570-  659790</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>81</id>
+		<naam>De Stromen </naam>
+		<duur>0900  2060660 </duur>
+		<goedkoop> 010- 20 77 888</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>82</id>
+		<naam>De Telefoongids </naam>
+		<duur>0900-0500 </duur>
+		<goedkoop>  020-4086400</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>84</id>
+		<naam>Debitel</naam>
+		<duur> 0900  3324835 </duur>
+		<goedkoop> 023- 5545545</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>85</id>
+		<naam> Declaratie Direct </naam>
+		<duur>0900 0645 </duur>
+		<goedkoop> 030- 751  8300</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>86</id>
+		<naam>Dell</naam>
+		<duur> 0900 0400242 </duur>
+		<goedkoop>  020- 674 5969</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>87</id>
+		<naam>Delta Lloyd </naam>
+		<duur> 0900 8072 </duur>
+		<goedkoop> 020- 594 9111</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>88</id>
+		<naam>Deurwaarderskantoor Harten en Partners</naam>
+		<duur> 0900  4444400 </duur>
+		<goedkoop> 070-  3117533</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>89</id>
+		<naam>deWinkel.nl </naam>
+		<duur> 0900  33946535 </duur>
+		<goedkoop> 0522- 245711</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>90</id>
+		<naam>Dexia Bank</naam>
+		<duur> 0900 339 4222 </duur>
+		<goedkoop> 020-  3485000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>91</id>
+		<naam>DigitaalTVkijken.nl</naam>
+		<duur>  0900  8854 </duur>
+		<goedkoop> 030- 2802867</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>92</id>
+		<naam> Digitenne</naam>
+		<duur> 0900 0576 </duur>
+		<goedkoop> 035- 677 00  70</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>93</id>
+		<naam>Directbank Hypotheken </naam>
+		<duur> 0900 3473589 </duur>
+		<goedkoop> 020-  5970707</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>94</id>
+		<naam>Dokterswacht</naam>
+		<duur> 0900  112 7 112 </duur>
+		<goedkoop> 0513- 656770</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>95</id>
+		<naam> Dong Energy</naam>
+		<duur> 0900 0655 </duur>
+		<goedkoop> 073- 616  0200</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>96</id>
+		<naam>DSB Bank</naam>
+		<duur> 0900 0575 </duur>
+		<goedkoop>  0229- 57 60 70</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>97</id>
+		<naam>Duitse  Lotto</naam>
+		<duur> 0900 3876568 </duur>
+		<goedkoop>0251-  212933</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>98</id>
+		<naam>DynaFix</naam>
+		<duur> 0900  3962349 </duur>
+		<goedkoop> 045- 5245778</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>99</id>
+		<naam> E-Netbeheer</naam>
+		<duur> 0900 1426 </duur>
+		<goedkoop> 010- 892  3193</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>100</id>
+		<naam>E-PC</naam>
+		<duur> 0900 2255411 </duur>
+		<goedkoop>  051 - 2330022</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>101</id>
+		<naam>Easy Computing  B.V.</naam>
+		<duur> 0900 202 18 38 </duur>
+		<goedkoop> 023- 55 11 3  11</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>102</id>
+		<naam>EasyJet</naam>
+		<duur> 0900 265 8021  </duur>
+		<goedkoop> 0044- 1582- 525001</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>103</id>
+		<naam> Elmar Reizen</naam>
+		<duur> 0900 7747747 </duur>
+		<goedkoop> 0346-  584000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>104</id>
+		<naam>Eneco</naam>
+		<duur> 0900 0201 </duur>
+		<goedkoop>  010- 8909605</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>105</id>
+		<naam>Energieirect </naam>
+		<duur> 0900 3347328 </duur>
+		<goedkoop> 0499-  334300</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>106</id>
+		<naam>Eon</naam>
+		<duur> 0900 0601 </duur>
+		<goedkoop>  010- 2895711</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>107</id>
+		<naam>Eon</naam>
+		<duur> 0900  0601 </duur>
+		<goedkoop> 010- 2895711</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>108</id>
+		<naam>Eon  Benelux</naam>
+		<duur> 0900 0601 </duur>
+		<goedkoop> 010-  2895711</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>109</id>
+		<naam>Epson</naam>
+		<duur> 0900  5050808 </duur>
+		<goedkoop> 020-  3145000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>110</id>
+		<naam>Essent</naam>
+		<duur> 0900  655 55 55 </duur>
+		<goedkoop> 038- 85 18  510</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>111</id>
+		<naam>EuroTicket</naam>
+		<duur> 0900 36 36  966 </duur>
+		<goedkoop> 0548- 363696</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>112</id>
+		<naam>Eye  Center Europe</naam>
+		<duur> 0900 323 0000 </duur>
+		<goedkoop> 020 -316 26  26</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>113</id>
+		<naam>Fa-Med</naam>
+		<duur> 0900 0882 </duur>
+		<goedkoop> 033  -43 45 200</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>114</id>
+		<naam>FBTO</naam>
+		<duur> 0900  2352277 </duur>
+		<goedkoop> 058 -234 59 05</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>115</id>
+		<naam> Feenstra CV Onderhoud</naam>
+		<duur> 0900 8455 </duur>
+		<goedkoop> 0478 -58 26  26</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>116</id>
+		<naam> Fiberworld </naam>
+		<duur> 0900 202 5410 </duur>
+		<goedkoop> 0513  -681817</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>117</id>
+		<naam> FinnAir</naam>
+		<duur> 0900 3466247</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>118</id>
+		<naam>Fit  For Free</naam>
+		<duur> 0900 34 83 67 37 33 </duur>
+		<goedkoop> 070-  3066910</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>119</id>
+		<naam>Flexi Front  (via Netdirect)</naam>
+		<duur> 0900 4564564 </duur>
+		<goedkoop> 030  -2426156</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>120</id>
+		<naam>Florius</naam>
+		<duur> 0900  1828 </duur>
+		<goedkoop> 033- 750 4000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>121</id>
+		<naam> FNV  Bondgenoten</naam>
+		<duur> 0900 9690 </duur>
+		<goedkoop> 030 -26 37  140</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>122</id>
+		<naam> Fontys Hogescholen</naam>
+		<duur> 0877 877 877 </duur>
+		<goedkoop> 040  -7877877</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>123</id>
+		<naam>Fortis Bank</naam>
+		<duur> 0900  1872 </duur>
+		<goedkoop> 020 -5881881</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>124</id>
+		<naam> Fortis Saldoinformatie</naam>
+		<duur> 0900 8171 </duur>
+		<goedkoop> 020 -588  1881</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>125</id>
+		<naam>Friese Wouden, de </naam>
+		<duur> 0900 8801 </duur>
+		<goedkoop> 0512- 581888</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>126</id>
+		<naam> Frisia Financieringen</naam>
+		<duur> 0900 0229 </duur>
+		<goedkoop> 0229 -57 61  61</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>127</id>
+		<naam>Fujitsu Siemens</naam>
+		<duur> 0900  3724357 </duur>
+		<goedkoop> 0346- 59 81 11</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>128</id>
+		<naam> Garant-o-Matic</naam>
+		<duur> 0900 2021356 </duur>
+		<goedkoop> 0161-  459955</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>129</id>
+		<naam>Gemeente Alphen  aan den Rijn</naam>
+		<duur> 0900 48 11 11 1 </duur>
+		<goedkoop> 0172- 465  231</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>130</id>
+		<naam>Gemeente Neerijnen </naam>
+		<duur> </duur>
+		<goedkoop> 0418 -656565</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>131</id>
+		<naam>Gemeente  Zaanstad</naam>
+		<duur> 0900 235 235 2 </duur>
+		<goedkoop> 075- 655  9111</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>132</id>
+		<naam>GfK PanelServices  Benelux</naam>
+		<duur></duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>133</id>
+		<naam>GGD-ZHW  Vaccinatielijn</naam>
+		<duur> 0900 2500500 </duur>
+		<goedkoop> 079- 343  0888</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>134</id>
+		<naam>Girofoon </naam>
+		<duur> 0900 0533 </duur>
+		<goedkoop> 020- 5611619</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>135</id>
+		<naam> GoBest &amp; Sunrise</naam>
+		<duur> 0900 1915 </duur>
+		<goedkoop> 020-  6837216</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>136</id>
+		<naam>Gogo Tours</naam>
+		<duur> 0900  0291 </duur>
+		<goedkoop> 010 -280 21 00</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>137</id>
+		<naam> GoRed</naam>
+		<duur> 0900 1234455 </duur>
+		<goedkoop>050  5797282</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>138</id>
+		<naam>GoRed</naam>
+		<duur> 0900  1234455 </duur>
+		<goedkoop>050 5797282</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>139</id>
+		<naam>Green  Card Visa</naam>
+		<duur> 0900 1980 </duur>
+		<goedkoop>073 646 25  99</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>140</id>
+		<naam>KRO</naam>
+		<duur> 0900 1304 </duur>
+		<goedkoop>035  6713911</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>141</id>
+		<naam>Kruidvat</naam>
+		<duur> 0900 900  11 55 </duur>
+		<goedkoop> 0318 579 888</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>142</id>
+		<naam>Kwantum</naam>
+		<duur> 0900 2355926 </duur>
+		<goedkoop>013  4626626</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>143</id>
+		<naam>Landal Greenparks </naam>
+		<duur> 0900 8842 </duur>
+		<goedkoop>070 300 35 06</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>144</id>
+		<naam>Laser Cards</naam>
+		<duur> 0900 600 70 60 </duur>
+		<goedkoop>073 646 25  99</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>145</id>
+		<naam>Libema Vakantieparken </naam>
+		<duur> 0900 0200 </duur>
+		<goedkoop>073 5282200</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>146</id>
+		<naam>Live Shop</naam>
+		<duur> 0900 1740 </duur>
+		<goedkoop>036  5358358</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>147</id>
+		<naam>Lococensus </naam>
+		<duur> 0900 0676 </duur>
+		<goedkoop>038 8515900</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>148</id>
+		<naam>Lotto Consumentenservice</naam>
+		<duur> 0900 0202 </duur>
+		<goedkoop>070 3216  621</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>149</id>
+		<naam>LowCall (Debitel) </naam>
+		<duur> 0900 5692255 </duur>
+		<goedkoop>023 5 545  545</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>150</id>
+		<naam>Maevita</naam>
+		<duur> 0900 8088  </duur>
+		<goedkoop>070 3795050</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>151</id>
+		<naam>Makro</naam>
+		<duur> 0900  2025300 </duur>
+		<goedkoop>020 3980200</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>152</id>
+		<naam> Mastercard (via ICS)</naam>
+		<duur> 0900 0232 </duur>
+		<goedkoop>020  4261133</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>153</id>
+		<naam>Maxx-XS</naam>
+		<duur> 0900  2356299 </duur>
+		<goedkoop>010 5140672</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>154</id>
+		<naam> Medicas </naam>
+		<duur></duur>
+		<goedkoop>076 5205292</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>155</id>
+		<naam> Medion</naam>
+		<duur> 0900 633 633 0 </duur>
+		<goedkoop>0032 2 200 61  98</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>156</id>
+		<naam>Medion Multimedia  Helpdesk</naam>
+		<duur> 0900 633 466 0 </duur>
+		<goedkoop> 0032 2 200 61  98</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>157</id>
+		<naam>Medion Servicecenter </naam>
+		<duur> 0900 2352534 </duur>
+		<goedkoop>0032 2 200 61  98</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>158</id>
+		<naam>Menzis</naam>
+		<duur> 0900 040 05 17  </duur>
+		<goedkoop>053 4853100</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>159</id>
+		<naam>Metro Cash  &amp; Carry BV</naam>
+		<duur> 0900 2025300 </duur>
+		<goedkoop>020  3980200</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>160</id>
+		<naam>Miele  Nederland</naam>
+		<duur> 0900 2020153 </duur>
+		<goedkoop>0347 378  911</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>161</id>
+		<naam>Mio-Tech</naam>
+		<duur> 0900 9933666  </duur>
+		<goedkoop>0047 2350  0063</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>162</id>
+		<naam>Motozoom.nl </naam>
+		<duur>0900  2941199 </duur>
+		<goedkoop>030 2965797</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>163</id>
+		<naam> Multikabel</naam>
+		<duur> 0900 685 84 52 </duur>
+		<goedkoop>072  5143200</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>164</id>
+		<naam>Museumkaart</naam>
+		<duur> 0900  4040910 </duur>
+		<goedkoop>0800  0203388</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>165</id>
+		<naam>Nachtjeweg.nl </naam>
+		<duur>  0900  8079 </duur>
+		<goedkoop>020 4564052</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>166</id>
+		<naam> Nationale Postcodeloterij</naam>
+		<duur> 0900 300 1500 </duur>
+		<goedkoop>020  6732446</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>167</id>
+		<naam> Nationale  Theaterkassa</naam>
+		<duur> 0900 9203 </duur>
+		<goedkoop>010 591  9000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>168</id>
+		<naam> Naturpost</naam>
+		<duur> 0900 202 10 61 </duur>
+		<goedkoop>0046 11  161500</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>169</id>
+		<naam>Navishop.nl </naam>
+		<duur>  0900  4562257 </duur>
+		<goedkoop>070 3175056</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>170</id>
+		<naam> Neckermann Reizen</naam>
+		<duur> 0900 555 0555 </duur>
+		<goedkoop>023 513  5555</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>171</id>
+		<naam>Nederlandse Boeken  Club</naam>
+		<duur></duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>172</id>
+		<naam>Nederlandse Energie  Maatschappij</naam>
+		<duur> 0900 7307307 </duur>
+		<goedkoop>010  2406120</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>173</id>
+		<naam>Nederlandse  Spoorwegen</naam>
+		<duur> 0900 20 21 163 </duur>
+		<goedkoop>030 235  4000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>174</id>
+		<naam>Nederlandse  Staatsloterij</naam>
+		<duur> 0900 777 0 777 </duur>
+		<goedkoop> 070  3021500</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>175</id>
+		<naam>Nintendo Helpdesk</naam>
+		<duur>  0909-0490444 </duur>
+		<goedkoop>030-6097166</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>176</id>
+		<naam> Nokia Nederland</naam>
+		<duur> 0900 202 60 55 </duur>
+		<goedkoop>070  3071717</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>177</id>
+		<naam>NS  Internationaal &amp; NS Hi-speed</naam>
+		<duur> 0900 9692 </duur>
+		<goedkoop>030 295 08  50</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>178</id>
+		<naam>NS Klantenservice</naam>
+		<duur> 0900  8306 </duur>
+		<goedkoop>030 295 0888</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>179</id>
+		<naam>NS  Travel</naam>
+		<duur> 0900 67 87 28 35 </duur>
+		<goedkoop>030  2977291</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>180</id>
+		<naam>NUON</naam>
+		<duur> 0900 0808  </duur>
+		<goedkoop>026 845 02 71</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>181</id>
+		<naam>Omniversum </naam>
+		<duur> 0900 666 48 37 </duur>
+		<goedkoop>070  3545454</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>182</id>
+		<naam> Online  Ticket Shop</naam>
+		<duur> 0900 665 4638 </duur>
+		<goedkoop>050 201  1520</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>183</id>
+		<naam>Onlineticketshop.nl </naam>
+		<duur> 0900  6654638 </duur>
+		<goedkoop>050 201 1520</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>184</id>
+		<naam>OPD (Online Pakket  Dienst) van Reviva</naam>
+		<duur> 0900 7386873 </duur>
+		<goedkoop>073 624 90  90</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>185</id>
+		<naam>Orange</naam>
+		<duur> 0900 9515 </duur>
+		<goedkoop>020  5355555</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>186</id>
+		<naam>Orion Direct</naam>
+		<duur> 0900  8077 </duur>
+		<goedkoop>076 5025050</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>187</id>
+		<naam> OV-Reisinformatie (9292ov)</naam>
+		<duur> 0900  9292</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>188</id>
+		<naam>OV-Taxi</naam>
+		<duur> 0900 8878  </duur>
+		<goedkoop>038 339 47 45</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>189</id>
+		<naam>OV-Taxi  Noord Holland</naam>
+		<duur> 0900 8654 </duur>
+		<goedkoop>038 339 47  45</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>190</id>
+		<naam>Oxxio</naam>
+		<duur> 0900 55 66 777  </duur>
+		<goedkoop>035 6265800</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>191</id>
+		<naam>Oxxio</naam>
+		<duur> 0900  2746254 </duur>
+		<goedkoop>035 6265800</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>192</id>
+		<naam>P+O  Ferries </naam>
+		<duur>070 70 77 71 </duur>
+		<goedkoop>0031 20 201  3333</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>193</id>
+		<naam>Packard Bell</naam>
+		<duur> 0900  202 51 17 </duur>
+		<goedkoop> 024 6489945</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>194</id>
+		<naam> Paradigit Computers</naam>
+		<duur> 0900 0502 </duur>
+		<goedkoop>040  2594900</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>195</id>
+		<naam>Park Line</naam>
+		<duur> 0900  1464 </duur>
+		<goedkoop>070 361 4091</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>196</id>
+		<naam> Patientline</naam>
+		<duur> 0900 8820 </duur>
+		<goedkoop>020  7940806</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>197</id>
+		<naam>PayPal</naam>
+		<duur> 0900 265  89 50 </duur>
+		<goedkoop> 001 402 935 2019</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>198</id>
+		<naam> Peter Hahn</naam>
+		<duur> 0900 738 37 42</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>199</id>
+		<naam> Peter Langhout Reizen</naam>
+		<duur> 0900 0789 </duur>
+		<goedkoop>0172  431941</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>200</id>
+		<naam>Philips</naam>
+		<duur> 0900 0400  063 </duur>
+		<goedkoop>053 482 9806</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>201</id>
+		<naam>Philips  Klantenservice</naam>
+		<duur> 0900 8407 </duur>
+		<goedkoop>040  2786378</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>202</id>
+		<naam>Phone House</naam>
+		<duur> 0900  424 0900 </duur>
+		<goedkoop>0800 84 84 840</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>203</id>
+		<naam> Pilmo (via BBNed)</naam>
+		<duur> 0900 2022450 </duur>
+		<goedkoop>023 565  9999</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>204</id>
+		<naam>PinLinq</naam>
+		<duur> 0900 7465467  </duur>
+		<goedkoop>020 3122020</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>205</id>
+		<naam>Pioneer  Nederland</naam>
+		<duur> 0900 7466337 </duur>
+		<goedkoop>036  5387777</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>206</id>
+		<naam>Pixmania</naam>
+		<duur> 0900  2658520</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>207</id>
+		<naam>Planet Internet </naam>
+		<duur> 0900 1905 </duur>
+		<goedkoop>0800  2626254</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>208</id>
+		<naam>Plasma  Discounter</naam>
+		<duur> 0900 3331133 </duur>
+		<goedkoop>035  6954290</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>209</id>
+		<naam>Plasma Discounter </naam>
+		<duur> 0900 51961 </duur>
+		<goedkoop>0031 35  6954290</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>210</id>
+		<naam>Plus Magazine </naam>
+		<duur> 0900 2040718 </duur>
+		<goedkoop>035 6925210</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>211</id>
+		<naam> Polis Direct</naam>
+		<duur> 0900 0234 </duur>
+		<goedkoop>0800  0707</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>212</id>
+		<naam>Politie</naam>
+		<duur> 0900 8844  </duur>
+		<goedkoop>0343 57 8844</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>213</id>
+		<naam>Postbank </naam>
+		<duur> 0900 0533 </duur>
+		<goedkoop>020 561 1619</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>214</id>
+		<naam> Postbank Helpdesk en SMS Diensten</naam>
+		<duur> 0900 1958 </duur>
+		<goedkoop>020  5611 619</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>215</id>
+		<naam>Postbank  Hypotheken</naam>
+		<duur> 0900 1900 </duur>
+		<goedkoop>020 561  1619</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>216</id>
+		<naam>Postbank  Klantenservice</naam>
+		<duur> 0900 0933 </duur>
+		<goedkoop>020 561  1619</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>217</id>
+		<naam>Postbank Zakelijk </naam>
+		<duur> 0900 0664 </duur>
+		<goedkoop>020 5655010</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>218</id>
+		<naam> Postkantoren BV</naam>
+		<duur> 0900 76 78 526 </duur>
+		<goedkoop>030 290 45  45</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>219</id>
+		<naam>Pretium Telecom</naam>
+		<duur> 0900  1637000 </duur>
+		<goedkoop>023 5339797</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>220</id>
+		<naam> Primeline</naam>
+		<duur> 0900 600 8060 </duur>
+		<goedkoop>073  6459920</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>221</id>
+		<naam>Proteq</naam>
+		<duur> 0900 0776  </duur>
+		<goedkoop>072 5180280</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>222</id>
+		<naam>PZN  Reserveerlijn</naam>
+		<duur> 0900 5495490 </duur>
+		<goedkoop>013  5499999</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>223</id>
+		<naam>Qick  Nummerinformatie 118 </naam>
+		<duur>118</duur>
+		<goedkoop>020  7129051</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>224</id>
+		<naam>Qioz</naam>
+		<duur> 0900 0204  </duur>
+		<goedkoop>079 316 83 44</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>225</id>
+		<naam>Qtek-HTC </naam>
+		<duur> 0900 67662453 </duur>
+		<goedkoop>0032  11230447</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>226</id>
+		<naam>Rabo  Beleggingslijn</naam>
+		<duur> 0900 0705 </duur>
+		<goedkoop>030 2 313  131</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>227</id>
+		<naam>Rabo mobiel  klantenservice</naam>
+		<duur> 0900 0907 </duur>
+		<goedkoop>06 18 007  300</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>228</id>
+		<naam>Rabobank Helpdesk  Internetbankieren en Mobielbankieren</naam>
+		<duur> 0900 0905  </duur>
+		<goedkoop>0495  584  221</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>229</id>
+		<naam> Rabofoon</naam>
+		<duur> 0900 0909 </duur>
+		<goedkoop>0499 499  199</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>230</id>
+		<naam>Radio 538 </naam>
+		<duur>0909 3000  538 </duur>
+		<goedkoop>035 538 5 538</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>231</id>
+		<naam>RAI  Theater</naam>
+		<duur> 0900 0192 </duur>
+		<goedkoop>020 549  1212</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>232</id>
+		<naam>RDW Veendam</naam>
+		<duur> 0900  0739 </duur>
+		<goedkoop>0598 39 33 30</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>233</id>
+		<naam>Reaal  Koerslijn</naam>
+		<duur> 0900 5637737 </duur>
+		<goedkoop>030  2997423</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>234</id>
+		<naam>Recreatief.nl</naam>
+		<duur>0900  3844514 </duur>
+		<goedkoop>0316 581910</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>235</id>
+		<naam> Redcoon Benelux BV </naam>
+		<duur>0900 7332666 </duur>
+		<goedkoop>013  4647300</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>236</id>
+		<naam>Rederij Doeksen </naam>
+		<duur> 0900 3635736 </duur>
+		<goedkoop>0562 442002</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>237</id>
+		<naam> Regionale Huisartsenpost Meppel</naam>
+		<duur> 0900 1120112 </duur>
+		<goedkoop>0522  466608</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>238</id>
+		<naam>Regiotaxi  Eemland-Heuvelrug</naam>
+		<duur> 0900 11 22 44 5 </duur>
+		<goedkoop>024  3743625</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>239</id>
+		<naam>Regiotaxi Noord-  en Midden-Limburg</naam>
+		<duur> 0900 0699 </duur>
+		<goedkoop>013  5499991</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>240</id>
+		<naam>Regiotaxi  Oosterschelde</naam>
+		<duur> 0900-8272005 </duur>
+		<goedkoop>0111  416000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>241</id>
+		<naam> RegioTaxi  Vechtdal</naam>
+		<duur> 0900 8412 </duur>
+		<goedkoop>0592  378735</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>242</id>
+		<naam> RegioTaxi Zuid-West Drenthe</naam>
+		<duur> 0900 1436 </duur>
+		<goedkoop>0524  298030</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>243</id>
+		<naam>Rialto  Verzekeringen</naam>
+		<duur> 0900  2742586</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>244</id>
+		<naam>Rijdende rechter,  de</naam>
+		<duur> 0900 1310 </duur>
+		<goedkoop>020 3143112</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>245</id>
+		<naam> Ritmo BV</naam>
+		<duur> 0900 7486628 </duur>
+		<goedkoop>040  2623194</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>246</id>
+		<naam>Ritmo BV</naam>
+		<duur> 0900  7486628 </duur>
+		<goedkoop>040 2623194</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>247</id>
+		<naam> Roompot Vakanties</naam>
+		<duur> 0900 8810 </duur>
+		<goedkoop>0113  374000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>248</id>
+		<naam>RWE Energy  Nederland N.V.</naam>
+		<duur> 0900 2 793 793 </duur>
+		<goedkoop>0800 486 27  24</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>249</id>
+		<naam>Ryanair</naam>
+		<duur> 0900 20 22 184  </duur>
+		<goedkoop>00353 1 249 77 48</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>250</id>
+		<naam>S2B  computers</naam>
+		<duur> 0900 9991997 </duur>
+		<goedkoop>070  3371700</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>251</id>
+		<naam>Salland  Automatisering</naam>
+		<duur> 0900 7255263 </duur>
+		<goedkoop>0572  364813</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>252</id>
+		<naam>Samsung</naam>
+		<duur> 0900 20 20  088 </duur>
+		<goedkoop>015 2196100</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>253</id>
+		<naam>Sanoma  Uitgevers</naam>
+		<duur> 0900 5423553 </duur>
+		<goedkoop>023 556 67  70</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>254</id>
+		<naam>Scarlet</naam>
+		<duur> 0900 235  1650</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>255</id>
+		<naam>Schuuring  Installatiebedrijf</naam>
+		<duur> 0900 6633366 </duur>
+		<goedkoop>0314  437100</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>256</id>
+		<naam> Secure  Logistics BV</naam>
+		<duur> 0900 4642323 </duur>
+		<goedkoop>010  4637777</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>257</id>
+		<naam> Selexyz Kooyker </naam>
+		<duur>088 7353800 </duur>
+		<goedkoop>071  5160500</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>258</id>
+		<naam>Siemens </naam>
+		<duur> 0900-3333100 </duur>
+		<goedkoop>0035 2  4066615640</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>259</id>
+		<naam>Simone FM</naam>
+		<duur> 0900  275 275 0 </duur>
+		<goedkoop>0591 648421</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>260</id>
+		<naam> Simyo</naam>
+		<duur> 0900-5113056  </duur>
+		<goedkoop>020-2003007</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>261</id>
+		<naam>SkyEurope </naam>
+		<duur> 0900 70 009 </duur>
+		<goedkoop>00421 2 4850  4850</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>262</id>
+		<naam>SkyEurope</naam>
+		<duur> 0900 040  0031 </duur>
+		<goedkoop>00421 2 4850 4850</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>263</id>
+		<naam> SkyTours</naam>
+		<duur> 0900 75986877 </duur>
+		<goedkoop>020 57 33  222</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>264</id>
+		<naam>SNS Direct</naam>
+		<duur> 0900 1850  </duur>
+		<goedkoop>030 299 7481</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>265</id>
+		<naam>SNS  Helpdesk Internet Diensten</naam>
+		<duur> 0900 7674357 </duur>
+		<goedkoop>030 299  7383</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>266</id>
+		<naam>SNS Regio Bank  Helpdesk</naam>
+		<duur> 0900 235 28 26 </duur>
+		<goedkoop> 030 299  7383</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>267</id>
+		<naam>SNS Saldo</naam>
+		<duur> 0900 1880  </duur>
+		<goedkoop>030 299 7421</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>268</id>
+		<naam>Solcon</naam>
+		<duur> 0900  2025700 </duur>
+		<goedkoop>0321 385600</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>269</id>
+		<naam>Sony  Ericson</naam>
+		<duur> 0900 899 8318 </duur>
+		<goedkoop>0032  27451611</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>270</id>
+		<naam>SOS Telefonische  Hulpdienst</naam>
+		<duur> 0900 1262626 </duur>
+		<goedkoop>073  6140048</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>271</id>
+		<naam>Speedlinq </naam>
+		<duur> 0900 7733354 </duur>
+		<goedkoop>070 3816981</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>272</id>
+		<naam> Sportvisserij  Nederland</naam>
+		<duur> 0900 2025358 </duur>
+		<goedkoop>030  6058400</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>273</id>
+		<naam>Stedentrips.nl  </naam>
+		<duur> 0900  2028800 </duur>
+		<goedkoop>0172 782000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>274</id>
+		<naam> Stichting De Ombudsman</naam>
+		<duur> 0900 6 722 777 </duur>
+		<goedkoop>035 6 722  777</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>275</id>
+		<naam>Stichting Reprorecht </naam>
+		<duur> 0900 2022829 </duur>
+		<goedkoop>020 347 04  14</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>276</id>
+		<naam>Stichting Thuiszorg  Noord Oost Brabant</naam>
+		<duur> 0900 8803 </duur>
+		<goedkoop>0413 333  777</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>277</id>
+		<naam>Sunweb Vakanties</naam>
+		<duur> 0900  0290 </duur>
+		<goedkoop>010 280 2130</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>278</id>
+		<naam> Supersaver Travel B.V.</naam>
+		<duur> 0900 112 23 33 </duur>
+		<goedkoop>020  2014142</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>279</id>
+		<naam>T-Mobile</naam>
+		<duur> 0900  0236 </duur>
+		<goedkoop>0800 7111</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>280</id>
+		<naam>Tandalarm </naam>
+		<duur> 0900 622 33 68 </duur>
+		<goedkoop>040  2435024</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>281</id>
+		<naam>Tele2 Compleet  Lite</naam>
+		<duur> 0900 241 1602</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>282</id>
+		<naam> Tele2  Helpdesk</naam>
+		<duur> 0900 0440440 </duur>
+		<goedkoop>0800  0029</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>283</id>
+		<naam> Telefuture</naam>
+		<duur> 0900 400 43 43 </duur>
+		<goedkoop>010  -4286790</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>284</id>
+		<naam>TeleTicketService </naam>
+		<duur> 0900 45 000 45 </duur>
+		<goedkoop>0032- 34 00 00  34</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>285</id>
+		<naam>Telfort </naam>
+		<duur>06 2600 1200  </duur>
+		<goedkoop>0800 1707</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>286</id>
+		<naam>TelSell</naam>
+		<duur> 0900  9293 </duur>
+		<goedkoop>036- 5358358</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>287</id>
+		<naam> Theater aan de Parade</naam>
+		<duur> 0900 33 72 72 33 </duur>
+		<goedkoop>073  -6809800</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>288</id>
+		<naam>Thebe</naam>
+		<duur> 0900 8806  </duur>
+		<goedkoop>013 -5947100</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>289</id>
+		<naam>Thermen  Holiday</naam>
+		<duur> 0900 9355</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>290</id>
+		<naam> Thuiszorg Noordwest Twente</naam>
+		<duur> 0900 0678 </duur>
+		<goedkoop>0546-  546300</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>291</id>
+		<naam>TicketOnline</naam>
+		<duur> 0900  3006000</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>292</id>
+		<naam>TicketPoint.nl </naam>
+		<duur>  0900  9000 8000 </duur>
+		<goedkoop>0418- 577070</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>293</id>
+		<naam> TicketService</naam>
+		<duur> 0900 3001250 </duur>
+		<goedkoop>070-  4169333</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>294</id>
+		<naam>Tinteling</naam>
+		<duur> 0900  2474786 </duur>
+		<goedkoop>073 690 40 50</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>295</id>
+		<naam> Tiscali &amp; Telfort Internet</naam>
+		<duur> 0900 999 0900 </duur>
+		<goedkoop>030-  2483500</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>296</id>
+		<naam>TNT Post</naam>
+		<duur> 0900  0570 </duur>
+		<goedkoop>058 -2 33 33  33</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>297</id>
+		<naam>Toegankelijk.com </naam>
+		<duur> 0900  040 14 10 </duur>
+		<goedkoop>026- 3706161</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>298</id>
+		<naam> TopTicketLine</naam>
+		<duur> 0900 300 5000 </duur>
+		<goedkoop>020  -2061084</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>299</id>
+		<naam>Toshiba  Technische Helpdesk</naam>
+		<duur> 0900 1000  1000</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>300</id>
+		<naam>Total Powerpoints </naam>
+		<duur> 0900 0400448 </duur>
+		<goedkoop>070-3180405</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>301</id>
+		<naam> Trans-IX Support</naam>
+		<duur> 0900 233 233 0 </duur>
+		<goedkoop> 075  -6705897</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>302</id>
+		<naam>Transavia</naam>
+		<duur> 0900  0737 </duur>
+		<goedkoop>020- 406 0406</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>303</id>
+		<naam> Transmoto Express</naam>
+		<duur> 0900 3213215 </duur>
+		<goedkoop>010-286 06  40</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>304</id>
+		<naam>Transvision</naam>
+		<duur> 0900 9630  </duur>
+		<goedkoop>0183 -890111</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>305</id>
+		<naam>Treintaxi </naam>
+		<duur> 0900 873468294 </duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>306</id>
+		<naam>Trias  Zorgverzekeraar</naam>
+		<duur></duur>
+		<goedkoop> 0800 022 59  57</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>307</id>
+		<naam>Tros Abonnementen</naam>
+		<duur> 0900  9770 </duur>
+		<goedkoop>035- 6715715</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>308</id>
+		<naam> TSC&amp;ITSw</naam>
+		<duur> 0900 8724357 </duur>
+		<goedkoop>0597-  422722</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>309</id>
+		<naam> TT Circuit  Assen</naam>
+		<duur> 0900 3882488 </duur>
+		<goedkoop>0592-  355000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>310</id>
+		<naam> Tuc Tuc</naam>
+		<duur> 0900 9933399 </duur>
+		<goedkoop>070-  3248811</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>311</id>
+		<naam>TV Krant</naam>
+		<duur> 0900  9707</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>312</id>
+		<naam>TweakDSL</naam>
+		<duur> 0900  8932543 </duur>
+		<goedkoop>036- 5460085</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>313</id>
+		<naam> Ujala Radio</naam>
+		<duur> 0900 4 090807 </duur>
+		<goedkoop>020  -4090807</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>314</id>
+		<naam> Unet</naam>
+		<duur> 0900  8638 </duur>
+		<goedkoop>036 -8454545</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>315</id>
+		<naam> Unive</naam>
+		<duur> 0900 1815 </duur>
+		<goedkoop>0511  -480250</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>316</id>
+		<naam>Unive Zuid</naam>
+		<duur> 0900  22 55 555 </duur>
+		<goedkoop>043 -6090299</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>317</id>
+		<naam> Unu Zorg en Mobiliteit</naam>
+		<duur> 09004 68 66 24 35 </duur>
+		<goedkoop>0321 -38  70 70</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>318</id>
+		<naam>UPC Center  Amsterdam Ceintuurbaan</naam>
+		<duur> 0900-1580 </duur>
+		<goedkoop>020-  7755000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>319</id>
+		<naam>UPC  Klantenservice Amsterdam</naam>
+		<duur> 0900  1580</duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>320</id>
+		<naam>UWV</naam>
+		<duur> 0900 9294 </duur>
+		<goedkoop>0113  750 350</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>321</id>
+		<naam>VacanSoleil</naam>
+		<duur> 0900  9899 </duur>
+		<goedkoop>040  8447748</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>322</id>
+		<naam>VakantieDiscounter.nl  </naam>
+		<duur> 0900  7 747 400 </duur>
+		<goedkoop> 0346 584  038</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>323</id>
+		<naam>Vakantiekaart.nl  </naam>
+		<duur> 0900  1238585 </duur>
+		<goedkoop>0348 482334</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>324</id>
+		<naam> Valys</naam>
+		<duur> 0900 9630 </duur>
+		<goedkoop>038  3394952</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>325</id>
+		<naam>VARA</naam>
+		<duur> 0900 0123  </duur>
+		<goedkoop>035 6711911</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>326</id>
+		<naam>VGZ  Zorgverzekeraar</naam>
+		<duur> 0900 8490 </duur>
+		<goedkoop>024 -329 76  40</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>327</id>
+		<naam>Villeroy &amp; Boch </naam>
+		<duur> 0900 235 8 36 2 </duur>
+		<goedkoop>030  -2473400</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>328</id>
+		<naam>Visa (via ICS) </naam>
+		<duur> 0900 0232 </duur>
+		<goedkoop>020- 4261133</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>329</id>
+		<naam> Vitens</naam>
+		<duur> 0900 0650 </duur>
+		<goedkoop>030-  2487565</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>330</id>
+		<naam>Vliegwinkel.nl </naam>
+		<duur> 0900  7767 767 </duur>
+		<goedkoop>020 7942183</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>331</id>
+		<naam> Vogelbescherming</naam>
+		<duur></duur>
+		<goedkoop></goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>332</id>
+		<naam>Vrijuit  Reizen</naam>
+		<duur> 0900 8745848 </duur>
+		<goedkoop>023-  5696969</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>333</id>
+		<naam>Vroom en Dreesman </naam>
+		<duur> 0900 2358363 </duur>
+		<goedkoop>020  -5959111</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>334</id>
+		<naam>VVV Den Haag </naam>
+		<duur> 0900 340 35 05 </duur>
+		<goedkoop> 070- 338 58  00</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>335</id>
+		<naam>VVV Leiden</naam>
+		<duur> 0900  2222333 </duur>
+		<goedkoop>071 -5161211</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>336</id>
+		<naam>VVV  Utrecht</naam>
+		<duur> 0900 1288732 </duur>
+		<goedkoop>030 -2333  036</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>337</id>
+		<naam>Waternet</naam>
+		<duur> 0900 9394  </duur>
+		<goedkoop>020- 6086885</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>338</id>
+		<naam>Woonpunt  Parkstad Heerlen</naam>
+		<duur> 0900 9691 </duur>
+		<goedkoop>  045-5615215</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>339</id>
+		<naam>Weekend  Company</naam>
+		<duur> 0900 9335 </duur>
+		<goedkoop>020  -5315920</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>340</id>
+		<naam>Weekendjeweg.nl</naam>
+		<duur> 0900  8079 </duur>
+		<goedkoop>020- 4564052</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>341</id>
+		<naam> Welzorg</naam>
+		<duur> 0900 0400 097 </duur>
+		<goedkoop>0800 022 49  00</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>342</id>
+		<naam>Wereld Natuur Fonds </naam>
+		<duur> 0900 1962 </duur>
+		<goedkoop>030 693 73 33</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>343</id>
+		<naam> Westerscheldetunnel</naam>
+		<duur> 0900 2358866 </duur>
+		<goedkoop>0113  232844</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>344</id>
+		<naam>Wireless Circle </naam>
+		<duur> 0900 22678765 </duur>
+		<goedkoop>020  2004415</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>345</id>
+		<naam>Woningcorporatie  Domijn</naam>
+		<duur> 0900 3350335 </duur>
+		<goedkoop>053  4886644</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>346</id>
+		<naam>World Ticket  Center</naam>
+		<duur> 0900 1502 </duur>
+		<goedkoop>020 626 10  11</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>347</id>
+		<naam>WVG-Vervoer</naam>
+		<duur> 0900 20 22  701 </duur>
+		<goedkoop>050 31 333 11</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>348</id>
+		<naam>Yarden </naam>
+		<duur> 088 9273140 </duur>
+		<goedkoop>0800 8192</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>349</id>
+		<naam> Yellowbrick</naam>
+		<duur> 0900 2354335 </duur>
+		<goedkoop>088 754 66  37</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>350</id>
+		<naam>Yiggers</naam>
+		<duur> 0900 2351630  </duur>
+		<goedkoop>078 6390848</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>351</id>
+		<naam>Zilveren  Kruis Achmea</naam>
+		<duur> 0900 9674 </duur>
+		<goedkoop>071  3670911</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>352</id>
+		<naam>Zilveren Kruis  Achmea</naam>
+		<duur> 0900 8435 </duur>
+		<goedkoop>071  3670911 </goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>353</id>
+		<naam> Zorgvervoerscentrale Nederland</naam>
+		<duur> 0900 22122231 </duur>
+		<goedkoop>010  2808182</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>354</id>
+		<naam>Zwaluwhoeve</naam>
+		<duur> 0900 3844514 </duur>
+		<goedkoop>0341  451993</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>355</id>
+		<naam>Onlineticketshop.nl </naam>
+		<duur> 0900  6654638 </duur>
+		<goedkoop>050 201  1525</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>356</id>
+		<naam> RP Holidays</naam>
+		<duur> 0900 8810 </duur>
+		<goedkoop>0113  374000</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+	<Bedrijf>
+		<id>357</id>
+		<naam>Center Parcs</naam>
+		<duur>0900 660 660 </duur>
+		<goedkoop>0800-0311</goedkoop>
+		<datum></datum>
+	</Bedrijf>
+</list>	
