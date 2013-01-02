@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <s:View xmlns:fx="http://ns.adobe.com/mxml/2009" creationComplete="data=srv.findByName('')" xmlns:dao="dao.*"
-		xmlns:s="library://ns.adobe.com/flex/spark" title="">
+		xmlns:s="library://ns.adobe.com/flex/spark" title="" xmlns:renderers="renderers.*">
 	<fx:Script>
 		<![CDATA[
-			[Embed(source="assets/icons/mobile_icn.png")]
+			[Embed(source="assets/skins/mobile_icn.png")]
 			public var mobileClass : Class;
 		]]>
 	</fx:Script>
@@ -12,11 +12,30 @@
 		<dao:BedrijfDAO id="srv"/>
 	</fx:Declarations>
 	
-	<s:List id="list" top="0" bottom="0" left="0" right="0" dataProvider="{data}" itemRenderer="views.custom.CallCheapItemRenderer" horizontalScrollPolicy="off" >
+	<s:List id="list" top="0" bottom="0" left="0" right="0" dataProvider="{data}" horizontalScrollPolicy="off" >
 		<!--<s:itemRenderer> 
 			<fx:Component> 
 				<s:IconItemRenderer iconField="mobileClass" iconWidth="48" iconHeight="48" labelField="naam" messageField="duur"/>
 			</fx:Component> 
 		</s:itemRenderer>-->
+		<s:itemRenderer>
+			<fx:Component>
+				<renderers:ItemListRenderer labelField="naam" messageFunction="getPhoneNumbers" iconFunction="getIcon"
+											decorator="@Embed('/assets/skins/arrow_icn_lt.png')"
+											styleName="item" messageStyleName="message">
+					<fx:Script>
+						<![CDATA[
+							protected function getPhoneNumbers(item:Object):String{
+								return item.duur.toUpperCase() + " \n" + item.goedkoop +""; 
+							}
+							
+							protected function getIcon(item:Object):String{
+								return "@Embed('/assets/skins/mobile_icn.png')"; 
+							}
+						]]>
+					</fx:Script>
+				</renderers:ItemListRenderer>
+			</fx:Component>
+		</s:itemRenderer>
 	</s:List>
 </s:View>
