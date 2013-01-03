@@ -1,0 +1,47 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace renderers  "renderers.*";
+
+
+renderers|TweetRenderer
+{
+	padding-top: 15;
+	padding-left: 10;
+	padding-right: 10;
+	padding-bottom: 15;
+	horizontal-gap: 10;
+	vertical-gap: 10;
+	
+	name-style: nameRendererStyle;
+	user-style: userRendererStyle;
+	content-style: contentRendererStyle;
+	separator: Embed(source='/styles/images/separator.png' );
+	
+	background: Embed(source='/styles/images/background_up.png', 
+		scaleGridLeft=10, scaleGridTop=20, scaleGridRight=11, scaleGridBottom=21 );
+}
+
+renderers|TweetRenderer:selected
+{
+	background: Embed(source='/styles/images/background_down.png',
+		scaleGridLeft=50, scaleGridTop=20, scaleGridRight=51, scaleGridBottom=21 );
+}
+.userRendererStyle
+{
+	font-size: 20;
+	color: #222222;
+	font-family: _sans;
+	font-weight: bold;
+}
+.nameRendererStyle
+{
+	font-size: 14;
+	color: #999999;
+	font-family: _sans;
+}
+.contentRendererStyle
+{
+	font-size: 15;
+	color: #555555;
+	font-family: _sans;
+}

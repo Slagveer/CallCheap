@@ -2,6 +2,7 @@
 @namespace s "library://ns.adobe.com/flex/spark";
 @namespace views "views.*";
 @namespace components "components.*";
+@namespace renderers  "renderers.*";
 
 s|ViewNavigatorApplication{
 	skinClass: ClassReference("skins.AppSkin"); 
@@ -30,9 +31,49 @@ views|CallCheapHomeView{
 	font-size: 15px;	
 }
 
-.test{
-	skinClass:ClassReference("skins.LocationLabelSkin");
-	fontFamily: "Spoleto";
-	color: #000;
-	fontSize: 60px;
+.goedkoop{
+	color: #FF0000;
+}
+
+
+
+renderers|TweetRenderer
+{
+	padding-top: 15;
+	padding-left: 10;
+	padding-right: 10;
+	padding-bottom: 15;
+	horizontal-gap: 10;
+	vertical-gap: 10;
+	
+	name-style: nameRendererStyle;
+	user-style: userRendererStyle;
+	content-style: contentRendererStyle;
+	separator: Embed(source='/assets/skins/rule.png' );
+	
+	background: Embed(source='/assets/skins/itembg.png' );
+}
+
+renderers|TweetRenderer:selected
+{
+	background: Embed(source='/assets/skins/itembg_down.png');
+}
+.userRendererStyle
+{
+	font-size: 20;
+	color: #FFF;
+	font-family: _sans;
+	font-weight: bold;
+}
+.nameRendererStyle
+{
+	font-size: 17;
+	color: #2BBDED;
+	font-family: _sans;
+}
+.contentRendererStyle
+{
+	font-size: 14;
+	color: #00CD51;
+	font-family: _sans;
 }

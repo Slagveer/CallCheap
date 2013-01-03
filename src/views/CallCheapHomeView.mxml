@@ -3,6 +3,7 @@
 		xmlns:s="library://ns.adobe.com/flex/spark" title="" xmlns:renderers="renderers.*">
 	<fx:Script>
 		<![CDATA[
+			import renderers.TweetRenderer;
 			[Embed(source="assets/skins/mobile_icn.png")]
 			public var mobileClass : Class;
 		]]>
@@ -12,12 +13,12 @@
 		<dao:BedrijfDAO id="srv"/>
 	</fx:Declarations>
 	
-	<s:List id="list" top="0" bottom="0" left="0" right="0" dataProvider="{data}" horizontalScrollPolicy="off" >
+	<s:List id="list" top="0" bottom="0" left="0" right="0" dataProvider="{data}" horizontalScrollPolicy="off" itemRenderer="renderers.TweetRenderer">
 		<!--<s:itemRenderer> 
 			<fx:Component> 
 				<s:IconItemRenderer iconField="mobileClass" iconWidth="48" iconHeight="48" labelField="naam" messageField="duur"/>
 			</fx:Component> 
-		</s:itemRenderer>-->
+		</s:itemRenderer>
 		<s:itemRenderer>
 			<fx:Component>
 				<renderers:ItemListRenderer labelField="naam" messageFunction="getPhoneNumbers" iconFunction="getIcon"
@@ -36,6 +37,6 @@
 					</fx:Script>
 				</renderers:ItemListRenderer>
 			</fx:Component>
-		</s:itemRenderer>
+		</s:itemRenderer>-->
 	</s:List>
 </s:View>

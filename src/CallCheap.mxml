@@ -41,10 +41,10 @@
 			
 		]]>
 	</fx:Script>
-	<!--<s:navigationContent>
+	<s:actionContent>
 		<s:Label text="CallCheap"/>
 		<s:Button icon="@Embed('assets/icons/info_icon.png')" click="navigator.popToFirstView()"/>
 		<s:Button icon="@Embed('assets/icons/mobile_icon.png')" click="navigator.popToFirstView()"/>
 		<s:Button icon="@Embed('assets/icons/search_icon.png')" click="navigator.popToFirstView()"/>
-	 </s:navigationContent>-->
+	 </s:actionContent>
 </s:ViewNavigatorApplication>

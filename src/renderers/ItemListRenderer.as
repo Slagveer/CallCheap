@@ -104,7 +104,7 @@ package renderers
 			t.styleName = "test";
 			t.y =  60;
 			
-			holder.addElement(t);
+			//holder.addElement(t);
 
 			this.addEventListener(MouseEvent.CLICK, toggleHighlight);
 		}
