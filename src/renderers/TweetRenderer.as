@@ -159,15 +159,11 @@ package renderers
 		}
 		override protected function setValues():void
 		{
-			//var arr:Array = String( data.author.name ).split("(");
-			//var user:String = String( data.author.name )
-			nameField.text = data.naam;
+			nameField.text = String(data.naam).slice(0, 30).concat(String(data.naam).length > 30 ? "..." : "");;
 			goedkoopField.text =  data.goedkoop;
-			duurField.htmlText = "<b class='goedkoop'>" + data.duur + "</b>";
-			
-			//if( data.link.length > 1)
-				avatar.source = mobileClass;
-				arrow.source = arrowClass;
+			duurField.text = data.duur;
+			avatar.source = mobileClass;
+			arrow.source = arrowClass;
 		}
 		
 		protected function getIcon(item:Object):String{

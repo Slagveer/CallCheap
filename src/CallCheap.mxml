@@ -6,7 +6,7 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	<fx:Style source="main.css" />
-	<fx:Style> 
+		<fx:Style> 
 		@namespace s "library://ns.adobe.com/flex/spark"; 
 		s|ActionBar { 
 			chromeColor: #05A8DE; 
@@ -25,13 +25,27 @@
 		{
 			color: white;
 		}
+			
+			@namespace components "components.*";
+			
+			components|SuperTextInput {
+				skinClass:ClassReference('skins.SuperTextInputSkin');
+			}
+			
+			components|ClearableTextInput {
+				skinClass:ClassReference('skins.SuperTextInputSearchButtonSkin');
+			}
 		
 	</fx:Style>
 	<fx:Script>
 		<![CDATA[
 			import mx.events.FlexEvent;
 			
+			import skins.SuperTextInputSearchButtonSkin;
+			
 			import views.CallCheapHomeView;
+			
+			private var skins_TextInputSearchSkinBase_obj:skins.SuperTextInputSearchButtonSkin;
 			
 			protected function onCreateComplete(event:FlexEvent):void
 			{
@@ -41,10 +55,13 @@
 			
 		]]>
 	</fx:Script>
+	<s:navigationContent>
+		<s:Label text="CallCheap" textAlign="left" paddingLeft="10"/>
+	</s:navigationContent>
+	
 	<s:actionContent>
-		<s:Label text="CallCheap"/>
 		<s:Button icon="@Embed('assets/icons/info_icon.png')" click="navigator.popToFirstView()"/>
 		<s:Button icon="@Embed('assets/icons/mobile_icon.png')" click="navigator.popToFirstView()"/>
 		<s:Button icon="@Embed('assets/icons/search_icon.png')" click="navigator.popToFirstView()"/>
-	 </s:actionContent>
+	</s:actionContent>
 </s:ViewNavigatorApplication>

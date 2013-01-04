@@ -1,42 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<s:View xmlns:fx="http://ns.adobe.com/mxml/2009" creationComplete="data=srv.findByName('')" xmlns:dao="dao.*"
-		xmlns:s="library://ns.adobe.com/flex/spark" title="" xmlns:renderers="renderers.*">
+<s:View xmlns:fx="http://ns.adobe.com/mxml/2009" creationComplete="onCreateComplete(event)" xmlns:dao="dao.*"
+		xmlns:s="library://ns.adobe.com/flex/spark" title="" xmlns:renderers="renderers.*" xmlns:components="components.*">
 	<fx:Script>
 		<![CDATA[
+			import mx.events.FlexEvent;
+			
 			import renderers.TweetRenderer;
 			[Embed(source="assets/skins/mobile_icn.png")]
 			public var mobileClass : Class;
+			
+			protected function onCreateComplete(event:FlexEvent):void
+			{
+				b.percentWidth = 100;
+				this.data= srv.findByName('');
+			}
+			
+			
 		]]>
 	</fx:Script>
+	
 	<fx:Declarations>
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 		<dao:BedrijfDAO id="srv"/>
 	</fx:Declarations>
-	
-	<s:List id="list" top="0" bottom="0" left="0" right="0" dataProvider="{data}" horizontalScrollPolicy="off" itemRenderer="renderers.TweetRenderer">
-		<!--<s:itemRenderer> 
-			<fx:Component> 
-				<s:IconItemRenderer iconField="mobileClass" iconWidth="48" iconHeight="48" labelField="naam" messageField="duur"/>
-			</fx:Component> 
-		</s:itemRenderer>
-		<s:itemRenderer>
-			<fx:Component>
-				<renderers:ItemListRenderer labelField="naam" messageFunction="getPhoneNumbers" iconFunction="getIcon"
-											decorator="@Embed('/assets/skins/arrow_icn_lt.png')"
-											styleName="item" messageStyleName="message">
-					<fx:Script>
-						<![CDATA[
-							protected function getPhoneNumbers(item:Object):String{
-								return item.duur.toUpperCase() + " \n" + item.goedkoop +""; 
-							}
-							
-							protected function getIcon(item:Object):String{
-								return "@Embed('/assets/skins/mobile_icn.png')"; 
-							}
-						]]>
-					</fx:Script>
-				</renderers:ItemListRenderer>
-			</fx:Component>
-		</s:itemRenderer>-->
-	</s:List>
+
+		<s:ActionBar id="b" title="search" chromeColor="0x1E2427" height="90">
+
+			<s:titleContent>
+				<s:Button icon="@Embed('assets/icons/search_icon.png')" fontSize="12"/>
+				<s:TextInput text="Zoeken..." color="0xFFFFFF" width="300"/>
+				
+			</s:titleContent>
+		</s:ActionBar>
+		<!--<components:ClearableTextInput id="clearTxt" text="clearable text input" left="110" top="90" width="220" tabIndex="2" />-->
+		
+		<s:List id="list" top="190" bottom="0" left="0" right="0" dataProvider="{data}" horizontalScrollPolicy="off" itemRenderer="renderers.TweetRenderer">
+			<!--<s:itemRenderer> 
+				<fx:Component> 
+					<s:IconItemRenderer iconField="mobileClass" iconWidth="48" iconHeight="48" labelField="naam" messageField="duur"/>
+				</fx:Component> 
+			</s:itemRenderer>
+			<s:itemRenderer>
+				<fx:Component>
+					<renderers:ItemListRenderer labelField="naam" messageFunction="getPhoneNumbers" iconFunction="getIcon"
+												decorator="@Embed('/assets/skins/arrow_icn_lt.png')"
+												styleName="item" messageStyleName="message">
+						<fx:Script>
+							<![CDATA[
+								protected function getPhoneNumbers(item:Object):String{
+									return item.duur.toUpperCase() + " \n" + item.goedkoop +""; 
+								}
+								
+								protected function getIcon(item:Object):String{
+									return "@Embed('/assets/skins/mobile_icn.png')"; 
+								}
+							]]>
+						</fx:Script>
+					</renderers:ItemListRenderer>
+				</fx:Component>
+			</s:itemRenderer>-->
+		</s:List>
+
 </s:View>

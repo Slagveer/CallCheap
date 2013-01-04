@@ -8,6 +8,10 @@ s|ViewNavigatorApplication{
 	skinClass: ClassReference("skins.AppSkin"); 
 }
 
+s|ActionBar{
+	backgroundAlpha:1.0;
+}
+
 s|View{
 	backgroundAlpha: 0;
 }

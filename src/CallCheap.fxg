@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Graphic xmlns:fc="http://ns.adobe.com/flashcatalyst/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns="http://ns.adobe.com/fxg/2008" version="2.0">
+	<Rect x="111.5" y="142.5" radiusX="60" width="614" height="136">
+		<fill>
+			<SolidColor color="#0065FF"/>
+		</fill>
+		<stroke>
+			<SolidColorStroke caps="none" color="#009CFF" joints="miter" miterLimit="4" weight="1"/>
+		</stroke>
+	</Rect>
+	<Rect x="542.5" y="142.5" radiusX="60" width="183" height="136">
+		<fill>
+			<SolidColor color="#000000"/>
+		</fill>
+		<stroke>
+			<SolidColorStroke caps="none" color="#000000" joints="miter" miterLimit="4" weight="1"/>
+		</stroke>
+	</Rect>
+	<BitmapImage source="@Embed('CallCheap.assets/TemporaryImageFile1.png')" x="227" y="142" width="425" height="137" fc:type="proxy" fc:id="1" d:userLabel="(Placeholder) Text Input" d:locked="true"/>
+	<BitmapImage source="@Embed('CallCheap.assets/search_icon.png')" x="148" y="181"/>
+</Graphic>
