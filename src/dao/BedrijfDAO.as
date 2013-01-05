@@ -23,9 +23,9 @@ package dao
 				return processRow(result[0]);
 			else
 				return null;
-				
+			
 		}
-
+		
 		public function findByBedrijf(bedrijfId:int):ArrayCollection
 		{
 			var sql:String = "SELECT * FROM bedrijf WHERE id=? ORDER BY naam, duur, goedkoop";
@@ -49,34 +49,34 @@ package dao
 				return null;
 			}
 		}
-
+		
 		public function findByName(searchKey:String):ArrayCollection
 		{
 			
 			
-			 var sql:String = "SELECT * FROM bedrijf WHERE naam || ' ' || duur LIKE ? ORDER BY naam, duur";
-			 var stmt:SQLStatement = new SQLStatement();
-			 stmt.sqlConnection = sqlConnection;
-			 stmt.text = sql;
-			 stmt.parameters[0] = "%" + searchKey + "%";
-			 stmt.execute();
-			 
-			 var result:Array = stmt.getResult().data;
-			 if (result)
-			 {
-				 var list:ArrayCollection = new ArrayCollection();
-				 for (var i:int=0; i<result.length; i++)
-				 {
-					 list.addItem(processRow(result[i]));	
-				 }
-				 return list;
-			 }
-			 else
-			 {
-				 return null;
-			 }
+			var sql:String = "SELECT * FROM bedrijf WHERE naam || ' ' || duur LIKE ? ORDER BY naam, duur";
+			var stmt:SQLStatement = new SQLStatement();
+			stmt.sqlConnection = sqlConnection;
+			stmt.text = sql;
+			stmt.parameters[0] = "%" + searchKey + "%";
+			stmt.execute();
+			
+			var result:Array = stmt.getResult().data;
+			if (result)
+			{
+				var list:ArrayCollection = new ArrayCollection();
+				for (var i:int=0; i<result.length; i++)
+				{
+					list.addItem(processRow(result[i]));	
+				}
+				return list;
+			}
+			else
+			{
+				return null;
+			}
 		}
-
+		
 		public function create(bedrijf:Bedrijf):void
 		{
 			trace(bedrijf.naam);
@@ -164,7 +164,7 @@ package dao
 				bedrijfDAO.create(bedrijf);
 			}
 		}
-
+		
 		
 	}
 }
